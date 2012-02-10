@@ -1,0 +1,14 @@
+---
+title: csi
+layout: post
+---
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript">
+var points = [{"lat": "18.135429", "instance": 22630, "lng": "-73.96275"}, {"lat": "18.174154", "instance": 22631, "lng": "-73.979074"}, {"lat": "18.173779", "instance": 22632, "lng": "-73.979229"}, {"lat": "18.176402", "instance": 22633, "lng": "-73.981938"}, {"lat": "18.170211", "instance": 22634, "lng": "-73.979991"}, {"lat": "18.168114", "instance": 22635, "lng": "-73.983247"}, {"lat": "18.165893", "instance": 22636, "lng": "-73.985812"}, {"lat": "18.203707", "instance": 22637, "lng": "-73.991299"}, {"lat": "18.205236", "instance": 22638, "lng": "-73.988413"}, {"lat": "18.205531", "instance": 22639, "lng": "-73.988091"}, {"lat": "18.205949", "instance": 22640, "lng": "-73.987829"}, {"lat": "18.206775", "instance": 22641, "lng": "-73.987265"}, {"lat": "18.187876", "instance": 22642, "lng": "-73.983242"}, {"lat": "18.187378", "instance": 22643, "lng": "-73.982786"}, {"lat": "18.18785", "instance": 22644, "lng": "-73.981842"}, {"lat": "18.190516", "instance": 22645, "lng": "-73.981794"}, {"lat": "18.178365", "instance": 22646, "lng": "-74.000692"}, {"lat": "18.163334", "instance": 22647, "lng": "-73.977127"}, {"lat": "18.233093", "instance": 22648, "lng": "-74.063327"}, {"lat": "18.232583", "instance": 22649, "lng": "-74.067351"}];
+var center = {"lat": "18.187609", "lng": "-73.991655"};
+</script>
+<script src="https://formhub.org/static/js/mapview.js" type="text/javascript"></script>
+<div id="map_canvas" style="width:100%; height:500px; margin-top: 40px"></div>
+<script type="text/javascript">initialize();</script>
+
